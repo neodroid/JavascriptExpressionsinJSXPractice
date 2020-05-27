@@ -1,2 +1,0 @@
-# JavascriptExpressionsinJSXPractice
-Created with CodeSandbox
